@@ -25,12 +25,12 @@ const Work = () => {
 SIT LO VIETNAMESE
               </span>
               <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="http://sitlo.com.au/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
-                <a href="/">
+                {/* <a href="/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
@@ -42,12 +42,12 @@ SIT LO VIETNAMESE
 CHU CHU JAPANESE
               </span>
               <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://www.chuchuadl.com.au/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
-                <a href="/">
+                {/* <a href="/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-boldt text-lg'>Code</button>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
@@ -59,10 +59,10 @@ CHU CHU JAPANESE
 Rock - Paper - Scissors
               </span>
               <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://frygit87.github.io/RockPaperScissors/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/FryGit87/RockPaperScissors">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -76,10 +76,10 @@ Rock - Paper - Scissors
 Password Generator
               </span>
               <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://frygit87.github.io/Vault-Company_Password-Generator/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/FryGit87/Vault-Company_Password-Generator">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -93,10 +93,10 @@ Password Generator
 Kids Quiz Whiz
               </span>
               <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://frygit87.github.io/Quiz_Whiz/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/FryGit87/Quiz_Whiz">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -110,10 +110,10 @@ Kids Quiz Whiz
 Weather Forecaster
               </span>
               <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://frygit87.github.io/Weather-Forecaster/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/FryGit87/Weather-Forecaster">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
