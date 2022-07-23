@@ -1,6 +1,11 @@
 import React from 'react'
 import Sitlo from '../assets/work/sitlo.jpg'
-// import Chuchu from '../assets/work/chuchu.jpg'
+import Chuchu from '../assets/work/chuchu.jpg'
+import Rps from '../assets/work/rps.jpg'
+import Pwgen from '../assets/work/pwgen.jpg'
+import Quiz from '../assets/work/quiz.jpg'
+import Weather from '../assets/work/weather.jpg'
+
 
 const Work = () => {
   return (
@@ -29,12 +34,29 @@ SIT LO VIETNAMESE
               </div>
             </div>
           </div>
-          <div style={{ backgroundImage: `url(${Sitlo})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+          <div style={{ backgroundImage: `url(${Chuchu})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
  
             {/* {Hover effects} */}
              <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-SIT LO VIETNAMESE
+CHU CHU JAPANESE
+              </span>
+              <div className='pt-8 text-center'>
+                <a href="/">
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
+                </a>
+                <a href="/">
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-boldt text-lg'>Code</button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div style={{ backgroundImage: `url(${Rps})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+ 
+            {/* {Hover effects} */}
+             <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+Rock - Paper - Scissors
               </span>
               <div className='pt-8 text-center'>
                 <a href="/">
@@ -46,12 +68,12 @@ SIT LO VIETNAMESE
               </div>
             </div>
           </div>
-          <div style={{ backgroundImage: `url(${Sitlo})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+          <div style={{ backgroundImage: `url(${Pwgen})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
  
             {/* {Hover effects} */}
              <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-SIT LO VIETNAMESE
+Password Generator
               </span>
               <div className='pt-8 text-center'>
                 <a href="/">
@@ -63,12 +85,12 @@ SIT LO VIETNAMESE
               </div>
             </div>
           </div>
-          <div style={{ backgroundImage: `url(${Sitlo})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+          <div style={{ backgroundImage: `url(${Quiz})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
  
             {/* {Hover effects} */}
              <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-SIT LO VIETNAMESE
+Kids Quiz Whiz
               </span>
               <div className='pt-8 text-center'>
                 <a href="/">
@@ -80,29 +102,12 @@ SIT LO VIETNAMESE
               </div>
             </div>
           </div>
-          <div style={{ backgroundImage: `url(${Sitlo})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+          <div style={{ backgroundImage: `url(${Weather})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
  
             {/* {Hover effects} */}
              <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-SIT LO VIETNAMESE
-              </span>
-              <div className='pt-8 text-center'>
-                <a href="/">
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
-                </a>
-                <a href="/">
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div style={{ backgroundImage: `url(${Sitlo})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
- 
-            {/* {Hover effects} */}
-             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-SIT LO VIETNAMESE
+Weather Forecaster
               </span>
               <div className='pt-8 text-center'>
                 <a href="/">
