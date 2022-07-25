@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "KJR-eact-Portfolio/static/css/main.73e4ba49.css",
-    "main.js": "KJR-eact-Portfolio/static/js/main.646c00fa.js",
-    "static/media/sitlo.jpg": "KJR-eact-Portfolio/static/media/sitlo.afed8af448bfe974434a.jpg",
-    "static/media/rps.jpg": "KJR-eact-Portfolio/static/media/rps.0015c9953c1f0312557e.jpg",
-    "static/media/chuchu.jpg": "KJR-eact-Portfolio/static/media/chuchu.ea52ee8bf7deb6695969.jpg",
-    "static/media/weather.jpg": "KJR-eact-Portfolio/static/media/weather.2f00f077542650334e74.jpg",
-    "static/media/quiz.jpg": "KJR-eact-Portfolio/static/media/quiz.9b12e0c625b6ac384be3.jpg",
-    "static/media/pwgen.jpg": "KJR-eact-Portfolio/static/media/pwgen.9d069224799df3e236e7.jpg",
-    "static/media/Resume-WebDev.pdf": "KJR-eact-Portfolio/static/media/Resume-WebDev.7aeaea8186f7158faf9c.pdf",
-    "static/media/react.png": "KJR-eact-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "KJR-eact-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "KJR-eact-Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/github.png": "KJR-eact-Portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "KJR-eact-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "KJR-eact-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "KJR-eact-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "KJR-eact-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "KJR-eact-Portfolio/index.html",
-    "main.73e4ba49.css.map": "KJR-eact-Portfolio/static/css/main.73e4ba49.css.map",
-    "main.646c00fa.js.map": "KJR-eact-Portfolio/static/js/main.646c00fa.js.map"
+    "main.css": "/kjr-eact-portfolio/static/css/main.73e4ba49.css",
+    "main.js": "/kjr-eact-portfolio/static/js/main.2d56d19b.js",
+    "static/media/sitlo.jpg": "/kjr-eact-portfolio/static/media/sitlo.afed8af448bfe974434a.jpg",
+    "static/media/rps.jpg": "/kjr-eact-portfolio/static/media/rps.0015c9953c1f0312557e.jpg",
+    "static/media/chuchu.jpg": "/kjr-eact-portfolio/static/media/chuchu.ea52ee8bf7deb6695969.jpg",
+    "static/media/weather.jpg": "/kjr-eact-portfolio/static/media/weather.2f00f077542650334e74.jpg",
+    "static/media/quiz.jpg": "/kjr-eact-portfolio/static/media/quiz.9b12e0c625b6ac384be3.jpg",
+    "static/media/pwgen.jpg": "/kjr-eact-portfolio/static/media/pwgen.9d069224799df3e236e7.jpg",
+    "static/media/Resume-WebDev.pdf": "/kjr-eact-portfolio/static/media/Resume-WebDev.7aeaea8186f7158faf9c.pdf",
+    "static/media/react.png": "/kjr-eact-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/kjr-eact-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/kjr-eact-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/kjr-eact-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/kjr-eact-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/kjr-eact-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/kjr-eact-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/kjr-eact-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/kjr-eact-portfolio/index.html",
+    "main.73e4ba49.css.map": "/kjr-eact-portfolio/static/css/main.73e4ba49.css.map",
+    "main.2d56d19b.js.map": "/kjr-eact-portfolio/static/js/main.2d56d19b.js.map"
   },
   "entrypoints": [
     "static/css/main.73e4ba49.css",
-    "static/js/main.646c00fa.js"
+    "static/js/main.2d56d19b.js"
   ]
 }
